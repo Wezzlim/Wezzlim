@@ -30,10 +30,10 @@ Sou **Analista e Desenvolvedor de Software**, com experiência na área de **Tec
 ## 🚀 Projetos Destacados
 
 ### 1. **[Nome do Projeto 1]** 
-Descrição breve do projeto. Aqui você pode adicionar o link para o repositório e uma breve descrição sobre o que o projeto faz.
+Em breve fixarei um dos meus projetos aqui.
 
 ### 2. **[Nome do Projeto 2]** 
-Descrição breve do projeto. O link para o repositório e uma breve descrição do que ele resolve.
+
 
 ---
 
