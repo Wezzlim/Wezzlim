@@ -6,7 +6,8 @@ Sou **Analista e Desenvolvedor de Software**, com experiência na área de **Tec
 
 - **Infraestrutura** e **Desenvolvimento de Softwares**
 - **Linguagens**: Java, C#, TypeScript
-- **Frameworks**: Spring, ASP.NET, Angular, React
+- **Frameworks**: Spring, ASP.NET, Angular
+- **Bibliotecas**: React
 
 ---
 
