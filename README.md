@@ -22,7 +22,7 @@ Sou **Analista e Desenvolvedor de Software**, com experiência na área de **Tec
 ## 🌐 Meus Contatos
 
 - 📧 **Email**: [dev_wes@outlook.com](https://outlook.live.com/mail/0/)
-- 💼 **LinkedIn**: [linkedin.com/in/wesleytecnologia](https://www.linkedin.com/in/wesleytech/)
+- 💼 **LinkedIn**: [linkedin.com/in/wesleytech](https://www.linkedin.com/in/wesleytech/)
 - 🔗 **GitHub**: [github.com/Wezzlim](https://github.com/Wezzlim)
 
 ---
