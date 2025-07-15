@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-Sou um  **Desenvolvedor de Software** já com experiência na área. Ao longo da minha jornada, adquiri bagagens com as seguintes **Linguagens de programação**, **Frameworks**, **Banco de Dados** e **Bibliotecas** abaixo.
+Sou um  **Desenvolvedor de Software** já com experiência na área. Ao longo da minha jornada, adquiri bagagens com as seguintes **Linguagens**, **Frameworks**, **Banco de Dados**, **Bibliotecas** e **Ferramentas** abaixo.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologias
 
