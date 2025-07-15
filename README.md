@@ -41,15 +41,6 @@ Sou um  **Desenvolvedor de Software** já com experiência na área. Ao longo da
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🚀 Projetos Destacados
-
-### 1. **[Nome do Projeto 1]** 
-Em breve fixarei um dos meus projetos aqui.
-
-### 2. **[Nome do Projeto 2]** 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> 💬 Fique à vontade para se conectar comigo!
-Se você estiver interessado em colaborar ou se precisar de alguma ajuda, sinta-se à vontade para entrar em contato. Estou aberto aberto a novos desafios e oportunidades para aprender.
+Se você estiver interessado em colaborar ou se precisar de alguma ajuda, sinta-se à vontade para entrar em contato. Estou aberto aberto a novos desafios e oportunidades.
 E se você gosta de tecnologia, software e inovação, vamos conversar! Estou sempre disposto a aprender mais e compartilhar conhecimentos com outros profissionais.
