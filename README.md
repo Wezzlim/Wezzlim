@@ -12,7 +12,7 @@ Sou um  **Desenvolvedor de Software** já com experiência na área. Ao longo da
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,ts,spring,dotnet,angular,react,git,github,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,cs,ts,spring,dotnet,angular,react,git,vscode,visualstudio,hibernate,html,css,mysql,postgres,postman,tailwind,yarn&perline=6" />
   </a>
 </p>
 
